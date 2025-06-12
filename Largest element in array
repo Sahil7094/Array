@@ -19,7 +19,7 @@ public:
    }
 };
 
-Code :- Efficiency Approach
+Code :- Optimal Approach
 
 class solution{
 public:
